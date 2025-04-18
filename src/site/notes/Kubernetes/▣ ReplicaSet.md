@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/replica-set/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ ReplicaSet/"}
 ---
 
 

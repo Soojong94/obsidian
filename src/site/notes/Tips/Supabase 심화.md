@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/supabase/"}
+{"dg-publish":true,"permalink":"/Tips/Supabase 심화/"}
 ---
 
 # 심화 Supabase 기능 가이드: 통합 예시 및 실제 활용

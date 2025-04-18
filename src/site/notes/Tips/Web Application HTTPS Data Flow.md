@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/web-application-https-data-flow/"}
+{"dg-publish":true,"permalink":"/Tips/Web Application HTTPS Data Flow/"}
 ---
 
 

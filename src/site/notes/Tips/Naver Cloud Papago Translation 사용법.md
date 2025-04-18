@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/naver-cloud-papago-translation/"}
+{"dg-publish":true,"permalink":"/Tips/Naver Cloud Papago Translation 사용법/"}
 ---
 
 

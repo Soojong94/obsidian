@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/node-affinity-anti-affinity/"}
+{"dg-publish":true,"permalink":"/Kubernetes/Node Affinity와 Anti-Affinity/"}
 ---
 
 

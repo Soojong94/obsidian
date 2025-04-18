@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/service-account/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ ServiceAccount/"}
 ---
 
 

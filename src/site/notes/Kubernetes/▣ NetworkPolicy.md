@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/network-policy/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ NetworkPolicy/"}
 ---
 
 

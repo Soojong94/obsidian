@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/apache-ssl-https/"}
+{"dg-publish":true,"permalink":"/Tips/Apache를 활용한 SSL 인증서 설치 및 HTTPS 설정 가이드/"}
 ---
 
 

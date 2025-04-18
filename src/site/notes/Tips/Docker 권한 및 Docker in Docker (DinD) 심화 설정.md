@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/docker-docker-in-docker-din-d/"}
+{"dg-publish":true,"permalink":"/Tips/Docker 권한 및 Docker in Docker (DinD) 심화 설정/"}
 ---
 
 

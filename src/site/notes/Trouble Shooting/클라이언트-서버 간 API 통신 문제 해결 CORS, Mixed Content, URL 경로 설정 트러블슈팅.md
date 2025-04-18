@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trouble-shooting/api-cors-mixed-content-url/"}
+{"dg-publish":true,"permalink":"/Trouble Shooting/클라이언트-서버 간 API 통신 문제 해결 CORS, Mixed Content, URL 경로 설정 트러블슈팅/"}
 ---
 
 

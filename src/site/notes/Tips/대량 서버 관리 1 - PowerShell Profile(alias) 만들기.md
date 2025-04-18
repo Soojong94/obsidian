@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/1-power-shell-profile-alias/"}
+{"dg-publish":true,"permalink":"/Tips/대량 서버 관리 1 - PowerShell Profile(alias) 만들기/"}
 ---
 
 

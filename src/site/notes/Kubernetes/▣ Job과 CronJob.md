@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/job-cron-job/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Job과 CronJob/"}
 ---
 
 

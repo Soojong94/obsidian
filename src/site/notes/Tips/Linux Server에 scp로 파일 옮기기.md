@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/linux-server-scp/"}
+{"dg-publish":true,"permalink":"/Tips/Linux Server에 scp로 파일 옮기기/"}
 ---
 
 

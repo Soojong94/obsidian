@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/k8s-aws-ec-2-iaa-s/"}
+{"dg-publish":true,"permalink":"/Tips/k8s 클러스터 구성을 위한 클라우드 인프라 만들어보기(AWS EC2 활용 -IaaS)/"}
 ---
 
 

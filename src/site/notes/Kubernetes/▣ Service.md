@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/service/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Service/"}
 ---
 
 Service는 쿠버네티스에서 Pod 집합에 대한 네트워크 접근 방식을 정의하는 리소스입니다. Pod는 동적으로 생성되고 삭제되므로 IP 주소가 계속 변경되는데, Service는 이러한 Pod 집합에 대한 안정적인 네트워크 엔드포인트를 제공합니다.

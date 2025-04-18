@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/persistent-volume-pv-persistent-volume-claim-pvc/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ PersistentVolume (PV) 및 PersistentVolumeClaim (PVC)/"}
 ---
 
 

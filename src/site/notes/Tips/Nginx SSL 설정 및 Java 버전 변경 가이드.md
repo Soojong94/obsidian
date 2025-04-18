@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/nginx-ssl-java/"}
+{"dg-publish":true,"permalink":"/Tips/Nginx SSL 설정 및 Java 버전 변경 가이드/"}
 ---
 
 

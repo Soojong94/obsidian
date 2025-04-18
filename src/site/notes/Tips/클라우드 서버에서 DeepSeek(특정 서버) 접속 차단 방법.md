@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/deep-seek/"}
+{"dg-publish":true,"permalink":"/Tips/클라우드 서버에서 DeepSeek(특정 서버) 접속 차단 방법/"}
 ---
 
 

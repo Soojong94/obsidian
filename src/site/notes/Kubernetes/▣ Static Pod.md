@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/static-pod/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Static Pod/"}
 ---
 
 

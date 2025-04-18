@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trouble-shooting/object-storage-git-hub-actions/"}
+{"dg-publish":true,"permalink":"/Trouble Shooting/Object Storage GitHub Actions 연동 트러블슈팅 가이드/"}
 ---
 
 

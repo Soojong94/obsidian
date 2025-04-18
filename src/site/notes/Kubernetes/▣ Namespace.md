@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/namespace/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Namespace/"}
 ---
 
 Namespace는 쿠버네티스 클러스터 내에서 리소스들을 논리적으로 분리하는 가상 환경입니다. 하나의 물리적 클러스터를 여러 가상 클러스터로 나누어 사용할 수 있게 해줍니다.

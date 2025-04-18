@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trouble-shooting/api-nginx-404/"}
+{"dg-publish":true,"permalink":"/Trouble Shooting/API 서버에 대한 Nginx  프록시 설정시 404 에러  해결 요청/"}
 ---
 
 

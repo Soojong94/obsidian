@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/deployment/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Deployment/"}
 ---
 
 

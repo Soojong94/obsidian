@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trouble-shooting/docker-redis/"}
+{"dg-publish":true,"permalink":"/Trouble Shooting/Docker로 실행 중인 Redis 컨테이너에 외부 서버에서 접근이 불가능한 문제/"}
 ---
 
 # Redis 네트워크 연결 문제 해결

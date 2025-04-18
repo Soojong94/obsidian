@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/se-linux-security-enhanced-linux/"}
+{"dg-publish":true,"permalink":"/Tips/SELinux(Security-Enhanced Linux) 가이드/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/vertical-pod-autoscaler-vpa/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Vertical Pod Autoscaler (VPA)/"}
 ---
 
 

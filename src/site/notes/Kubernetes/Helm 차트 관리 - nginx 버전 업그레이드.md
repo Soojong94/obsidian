@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/helm-nginx/"}
+{"dg-publish":true,"permalink":"/Kubernetes/Helm 차트 관리 - nginx 버전 업그레이드/"}
 ---
 
 

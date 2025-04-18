@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/crd/"}
+{"dg-publish":true,"permalink":"/Kubernetes/커스텀 리소스 정의(CRD)와 오퍼레이터/"}
 ---
 
 

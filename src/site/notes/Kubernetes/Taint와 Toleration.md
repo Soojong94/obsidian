@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/taint-toleration/"}
+{"dg-publish":true,"permalink":"/Kubernetes/Taint와 Toleration/"}
 ---
 
 

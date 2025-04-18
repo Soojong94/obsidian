@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/g-rpc-bff/"}
+{"dg-publish":true,"permalink":"/Tips/gRPC 통신 및 BFF 아키텍처/"}
 ---
 
 

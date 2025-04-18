@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/horizontal-pod-autoscaler-hpa/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Horizontal Pod Autoscaler (HPA)/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/nginx-ssl-https/"}
+{"dg-publish":true,"permalink":"/Tips/Nginx를 활용한 SSL 인증서 설치 및 HTTPS 설정 가이드/"}
 ---
 
 

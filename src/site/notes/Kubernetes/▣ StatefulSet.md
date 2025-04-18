@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/stateful-set/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ StatefulSet/"}
 ---
 
 

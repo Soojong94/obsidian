@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/daemon-set/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ DaemonSet/"}
 ---
 
 

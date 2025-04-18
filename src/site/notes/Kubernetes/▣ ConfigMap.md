@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/config-map/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ ConfigMap/"}
 ---
 
 

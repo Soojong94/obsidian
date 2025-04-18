@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/role-role-binding-rbac/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Role과 RoleBinding (RBAC)/"}
 ---
 
 

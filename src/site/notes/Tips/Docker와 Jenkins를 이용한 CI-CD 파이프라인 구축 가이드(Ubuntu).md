@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/docker-jenkins-ci-cd-ubuntu/"}
+{"dg-publish":true,"permalink":"/Tips/Docker와 Jenkins를 이용한 CI-CD 파이프라인 구축 가이드(Ubuntu)/"}
 ---
 
 # CI/CD 간단 구성 가이드

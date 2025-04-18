@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips/supabase/"}
+{"dg-publish":true,"permalink":"/Tips/Supabase 개요/"}
 ---
 
 # Supabase 기능 가이드

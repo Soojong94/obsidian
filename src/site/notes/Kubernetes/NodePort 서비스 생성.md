@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/node-port/"}
+{"dg-publish":true,"permalink":"/Kubernetes/NodePort 서비스 생성/"}
 ---
 
 

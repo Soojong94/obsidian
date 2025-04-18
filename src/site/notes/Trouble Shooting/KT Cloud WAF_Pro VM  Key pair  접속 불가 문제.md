@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trouble-shooting/kt-cloud-waf-pro-vm-key-pair/"}
+{"dg-publish":true,"permalink":"/Trouble Shooting/KT Cloud WAF_Pro VM  Key pair  접속 불가 문제/"}
 ---
 
 

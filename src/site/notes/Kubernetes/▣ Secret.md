@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/secret/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Secret/"}
 ---
 
 

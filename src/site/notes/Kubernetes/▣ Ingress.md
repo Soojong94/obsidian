@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/ingress/"}
+{"dg-publish":true,"permalink":"/Kubernetes/▣ Ingress/"}
 ---
 
 
